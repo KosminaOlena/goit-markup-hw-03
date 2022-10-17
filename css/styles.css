@@ -198,7 +198,7 @@ img {
 }
 
 .feature-list .item {
-    flex-basis: calc((100%-90px)/4);
+    flex-basis: calc((100% - 90px) / 4);
 }
 
 .feature-list .title {
